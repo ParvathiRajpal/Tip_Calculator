@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My ApplicationNew</string>
+    <string name="bill_amt">Enter Bill Amount</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="exc">Excellent Service Tip Button</string>
+    <string name="good">Good Service Tip Button</string>
+    <string name="regular">Regular Service Tip Button</string>
+    <string name="serviceRating">Service Rating</string>
+    <string name="main_msg_tipTotal">$ %f Tip Total</string>
+    <string name="final_amt">BILL TOTAL = </string>
+    <string name="billTotalAmount"> $ %f</string>
+    <string name="main_msg_tipPercent">%f%% Tip Percent</string>
+</resources>
